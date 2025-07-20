@@ -3,5 +3,5 @@ uvicorn
 pandas
 numpy
 requests
-pybaseball==3.4.4
+pybaseball==3.0.4
 python-dotenv
