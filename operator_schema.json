@@ -1,0 +1,1 @@
+{"type": "object", "properties": {"ERA_HOME_PRED": {"type": "number"}, "ERA_AWAY_PRED": {"type": "number"}}, "required": ["ERA_HOME_PRED", "ERA_AWAY_PRED"]}

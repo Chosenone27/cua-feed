@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+numpy
+requests
+pybaseball==3.4.4
+python-dotenv
